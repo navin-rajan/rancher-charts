@@ -1,0 +1,17 @@
+dependencies:
+- condition: ""
+  enabled: false
+  import-values: null
+  name: kafka-schema
+  repository: http://localhost:8879
+  tags: null
+  version: 0.1.0
+- condition: ""
+  enabled: false
+  import-values: null
+  name: kafka-rest
+  repository: http://localhost:8879
+  tags: null
+  version: 0.1.0
+digest: sha256:0b2d239c22cf278fb33bf5af9925fc4da31a3ff14a07ac14d406b167c38db788
+generated: 2017-10-16T00:05:25.961553297+05:30

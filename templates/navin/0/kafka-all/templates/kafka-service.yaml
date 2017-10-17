@@ -1,0 +1,18 @@
+apiVersion: v1
+
+kind: Service
+metadata:
+  name: kafka-headless
+  labels:
+    app: kafka-headless
+spec:
+  ports:
+  - port: 9092
+    name: client
+  clusterIP: None
+  selector:
+    app: kafka
+
+
+     
+

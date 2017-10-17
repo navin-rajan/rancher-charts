@@ -1,0 +1,8 @@
+dependencies:
+- name: kafka-schema
+  version: 0.1.0
+  repository: http://localhost:8879
+- name: kafka-rest
+  version: 0.1.0
+  repository: http://localhost:8879
+

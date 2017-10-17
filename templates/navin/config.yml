@@ -1,0 +1,8 @@
+name: Navin Test
+description: |
+ rancher test
+version: "1"
+category: News
+maintainer: Navin
+license: Apache, v2
+projectURL: https://tt-rss.org/gitlab/fox/tt-rss/wikis/home
